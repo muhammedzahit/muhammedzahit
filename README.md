@@ -17,16 +17,16 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="C" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />]()
-[<img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />]()
-[<img align="left" alt="Python" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/python-19-1175114.png" />]()
-[<img align="left" alt="Java" width="40px" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" />]()
-[<img align="left" alt="Postgresql" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />]()
-[<img align="left" alt="JavaFX" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/en/c/cc/JavaFX_Logo.png" />]()
-[<img align="left" alt="Qt" width="40px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/qt-512.png" />]()
-[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />]()
-[<img align="left" alt="Numpy" width="40px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />]()
-[<img align="left" alt="MatPlotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" />]() <br/>
+[<img align="left" alt="C" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](C)
+[<img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](C++)
+[<img align="left" alt="Python" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/python-19-1175114.png" />](Python)
+[<img align="left" alt="Java" width="40px" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" />](Java)
+[<img align="left" alt="Postgresql" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />](PostgreSQL)
+[<img align="left" alt="JavaFX" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/en/c/cc/JavaFX_Logo.png" />](JavaFX)
+[<img align="left" alt="Qt" width="40px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/qt-512.png" />](Qt)
+[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />](Tensorflow)
+[<img align="left" alt="Numpy" width="40px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />](Numpy)
+[<img align="left" alt="MatPlotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" />](Matplotlib) <br/>
 <br/>
 
 
