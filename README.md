@@ -29,6 +29,7 @@
 [<img align="left" alt="MatPlotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" />](Matplotlib) <br/>
 <br/>
 
+#### Email : muhammetzahitaydin@gmail.com
 
 ---
 
@@ -36,13 +37,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzahit" alt="muhammedzahit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzahit&show_icons=true&locale=en&layout=compact" alt="muhammedzahit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzahit&show_icons=true&locale=en" alt="muhammedzahit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzahit&" alt="muhammedzahit" /></p>
+
 
 [linkedin]: https://www.linkedin.com/in/muhammed-zahid-ayd%C4%B1n-14620319a/
 [kaggle]: https://www.kaggle.com/muhammetzahitaydn
