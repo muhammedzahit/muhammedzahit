@@ -38,13 +38,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence**
-
-- 📫 How to reach me **muhammetzahitaydin@gmail.com**
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzahit&show_icons=true&locale=en&layout=compact" alt="muhammedzahit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzahit&show_icons=true&locale=en" alt="muhammedzahit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzahit&" alt="muhammedzahit" /></p>
+
+[linkedin]: https://www.linkedin.com/in/muhammed-zahid-ayd%C4%B1n-14620319a/
+[kaggle]: https://www.kaggle.com/muhammetzahitaydn
+[leetcode]: https://leetcode.com/muhammetzahitaydin/
+[medium]: https://medium.com/@muhammetzahitaydin
+[hackerrank]: https://www.hackerrank.com/muhammetzahitay1
