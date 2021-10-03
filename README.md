@@ -32,28 +32,19 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedzahit&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedzahit" /> </p>
 
-</details>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedzahit" alt="muhammedzahit" /></a> </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+- 🌱 I’m currently learning **Artificial intelligence**
 
-</details>
+- 📫 How to reach me **muhammetzahitaydin@gmail.com**
 
-[linkedin]: https://codeSTACKr.com
-[kaggle]: http://vsCodeHero.com
-[leetcode]: https://twitter.com/codeSTACKr
-[medium]: https://youtube.com/codeSTACKr
-[hackerrank]: https://instagram.com/codeSTACKr
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedzahit&show_icons=true&locale=en&layout=compact" alt="muhammedzahit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedzahit&show_icons=true&locale=en" alt="muhammedzahit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedzahit&" alt="muhammedzahit" /></p>
